@@ -1,2 +1,2 @@
 # GIFs
-Python Processing code used to make gifs on twitter.com/warstilide49
+Python Processing codes used to make gifs on twitter.com/warstilide49
