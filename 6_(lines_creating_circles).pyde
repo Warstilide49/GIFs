@@ -5,6 +5,7 @@ dia=7
 
 def setup():
     size(500,500)
+
 def draw():
     global angle,dia
     background(20)
