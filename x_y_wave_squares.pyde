@@ -1,3 +1,6 @@
+#Inspired by @etiennejcb's excellent tutorials
+#Please follow him on twitter, if you havent already
+
 def periodicFunction(u):
     return map(sin(TWO_PI*u),-1,1,1,5)
 
