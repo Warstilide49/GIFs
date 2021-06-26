@@ -1,3 +1,5 @@
+#This code is for 31 but 32 is made in a similar fashion except the real and imaginary variables change with cos and sin respectively instead.
+
 def setup():
     size(600,600)
     stroke(255)
