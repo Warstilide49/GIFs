@@ -1,3 +1,6 @@
+#Inspired by @etiennejcb's excellent tutorials
+#Please follow him on twitter, if you havent already
+
 def setup():
     size(600,600)
     stroke(255)
