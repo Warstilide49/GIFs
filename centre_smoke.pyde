@@ -1,3 +1,6 @@
+#Inspired by etienne's brilliant tutorial
+# twitter.com/etiennejcb
+
 from opensimplex import OpenSimplex
 
 n=OpenSimplex()
