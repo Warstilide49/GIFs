@@ -1,4 +1,6 @@
-#Copied exactly from etienne's wordpress blog
+#Followed etienne's blog and implemented the exact same in Python
+#Credits: @etiennejcb on twitter
+
 from opensimplex import OpenSimplex
 
 class Objekt:
