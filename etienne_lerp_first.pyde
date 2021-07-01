@@ -1,3 +1,6 @@
+#Used etienne's idea of a lerpy curve
+#Credits: @etiennejcb on twitter
+
 from opensimplex import OpenSimplex
 
 def setup():
