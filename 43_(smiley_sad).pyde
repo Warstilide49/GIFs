@@ -1,3 +1,6 @@
+#The gif that I worked the most on.. lmao
+#Wanted to make them by math only
+
 def setup():
     size(600,600)
     stroke(255)
